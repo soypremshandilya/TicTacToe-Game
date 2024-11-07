@@ -1,8 +1,5 @@
 # TicTacToe-Game
 
-
-# Tic-Tac-Toe Game in Java (AWT)
-
 A simple, classic Tic-Tac-Toe game built with Java and AWT. This project is a GUI-based implementation where two players take turns placing "X" and "O" symbols on a 3x3 grid. The first player to align three symbols in a row, column, or diagonal wins, while a full board with no winner results in a draw.
 
 ## Features
